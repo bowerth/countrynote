@@ -1,0 +1,64 @@
+cou,country,coulabel,coupron,in40,region,inoecd
+AUS,Australia,Australia,Australian,1,Ot.ASIA-PACIFIC,1
+AUT,Austria,Austria,Austrian,1,EU28,1
+BEL,Belgium,Belgium,Belgian,1,EU28,1
+BRA,Brazil,Brazil,Brazilian,1,Americas,0
+CAN,Canada,Canada,Canadian,1,Americas,1
+CHE,Switzerland,Switzerland,Swiss,1,OtherEUR,1
+CHL,Chile,Chile,Chilean,1,Americas,1
+CHN,China,China,Chinese,1,East Asia,0
+COL,Colombia,Colombia,Colombian,0,Americas,0
+CRI,Costa Rica,Costa Rica,Costa Rican,0,Americas,0
+CZE,Czech Republic,the Czech Republic,Czech,1,EU28,1
+DEU,Germany,Germany,German,1,EU28,1
+DNK,Denmark,Denmark,Danish,1,EU28,1
+ESP,Spain,Spain,Spainish,1,EU28,1
+EST,Estonia,Estonia,Estonian,1,EU28,1
+FIN,Finland,Finland,Finnish,1,EU28,1
+FRA,France,France,French,1,EU28,1
+GBR,United Kingdom,the United Kingdom,UK,1,EU28,1
+GRC,Greece,Greece,Greek,1,EU28,1
+HRV,Croatia,Croatia,Croatian,0,EU28,0
+HUN,Hungary,Hungary,Hungarian,1,EU28,1
+IDN,Indonesia,Indonesia,Indonesian,1,ASEAN,0
+IND,India,India,Indian,1,Ot.ASIA-PACIFIC,0
+IRL,Ireland,Ireland,Irish,1,EU28,1
+ISL,Iceland,Iceland,Icelandish,1,OtherEUR,1
+ISR,Israel,Israel,Israeli,1,Rest of the World,1
+ITA,Italy,Italy,Italian,1,EU28,1
+JPN,Japan,Japan,Japanese,1,East Asia,1
+KOR,Korea,Korea,Korean,1,East Asia,1
+LUX,Luxembourg,Luxembourg,Luxembourgish,1,EU28,1
+MEX,Mexico,Mexico,Mexican,1,Americas,1
+NLD,Netherlands,the Netherlands,Dutch,1,EU28,1
+NOR,Norway,Norway,Norwegian,1,OtherEUR,1
+NZL,New Zealand,New Zealand,New Zealand's,1,Ot.ASIA-PACIFIC,1
+POL,Poland,Poland,Polish,1,EU28,1
+PRT,Portugal,Portugal,Portuguese,1,EU28,1
+RUS,Russian Fed.,the Russian Federation,Russian,1,OtherEUR,0
+SVK,Slovak Republic,the Slovak Republic,Slovak,1,EU28,1
+SVN,Slovenia,Slovenia,Slovenian,1,EU28,1
+SWE,Sweden,Sweden,Swedish,1,EU28,1
+TUN,Tunesia,Tunesia,Tunesian,0,Rest of the World,0
+TUR,Turkey,Turkey,Turkish,1,Rest of the World,1
+USA,United States,the United States,US,1,Americas,1
+ZAF,South Africa,South Africa,South African,1,Rest of the World,0
+ROW,Rest_of the_World,the Rest of the World,Rest of the World's,1,Rest of the World,0
+ARG,Argentina,Argentina,Argentinian,0,Americas,0
+BGR,Bulgaria,Bulgaria,Bulgarian,0,EU28,0
+BRN,Brunei Darussalam,Brunei Darussalam,Bruneian,0,ASEAN,0
+CYP,Cyprus,Cyprus,Cypriot,0,EU28,0
+HKG,Hong Kong,Hong Kong (SAR China),Hong Kong,0,East Asia,0
+KHM,Cambodia,Cambodia,Cambodian,0,ASEAN,0
+LTU,Lithuania,Lithuania,Lithuanian,0,EU28,0
+LVA,Latvia,Latvia,Latvian,0,EU28,0
+MLT,Malta,Malta,Maltese,0,EU28,0
+MYS,Malaysia,Malaysia,Malaysian,0,ASEAN,0
+PHL,Philippines,Philippines,Filipino,0,ASEAN,0
+ROU,Romania,Romania,Romanian,0,EU28,0
+SAU,Saudi Arabia,Saudi Arabia,Saudi Arabian,0,Rest of the World,0
+SGP,Singapore,Singapore,Singaporean,0,ASEAN,0
+THA,Thailand,Thailand,Thai,0,ASEAN,0
+TWN,Chinese Taipei,Chinese Taipei,Chinese Taipei,0,East Asia,0
+VNM,Viet Nam,Viet Nam,Vietnamese,0,ASEAN,0
+Total,Total,Total,Total,0,NA,0

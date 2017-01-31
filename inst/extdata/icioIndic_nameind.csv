@@ -1,0 +1,20 @@
+ind,industry,indlabel,aggregate
+01T05,Agriculture,agriculture,Primary+Utility
+10T14,Mining,mining,Primary+Utility
+15T16,Food _ products,food products ,Manuf (other)
+17T19,Textiles &_ apparel,textile and apparel,Manuf (other)
+20T22,Wood &_ paper,wood and paper,Manuf (material)
+23T26,Chemicals &_ minerals,chemicals and minerals,Manuf (material)
+27T28,Basic _ metals,basic metals,Manuf (material)
+29,Machinery,machinery,Manuf (machinery)
+30T33,Electrical _ equipment,electrical equipment,Manuf (machinery)
+34T35,Transport _ equipment,transport equipment,Manuf (machinery)
+36T37,Other _ manufactures,other manufactures,Manuf (other)
+40T41,Utilities,utilities,Primary+Utility
+45,Construction,construction,Other
+50T55,Wholesale &_ retail,wholesale and retail,Services (trade)
+60T64,Transport &_ telecoms,transport and telecommunications,Services (transport)
+65T67,Finance &_ insurance,finance and insurance,Services (fin & bus)
+70T74,Business _ services,business services,Services (fin & bus)
+75T95,Other services,other services,Other
+Total,Total,total,
